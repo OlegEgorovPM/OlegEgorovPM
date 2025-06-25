@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38D252&center=true&width=435&lines=Привет+👋,+Я+[Ваше+Имя];Senior+FullStack+Developer;Open+to+Work+🚀" alt="Приветствие" />
+</div>
 
-<!--
-**OlegEgorovPM/OlegEgorovPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Мои ключевые компетенции
+```python
+class SeniorDeveloper:
+    def __init__(self):
+        self.name = "[Ваше Имя]"
+        self.role = "FullStack Developer"
+        self.skills = {
+            "backend": ["Python", "Node.js", "Django", "FastAPI"],
+            "frontend": ["React", "Vue", "TypeScript"],
+            "devops": ["Docker", "AWS", "CI/CD"],
+            "db": ["PostgreSQL", "MongoDB", "Redis"]
+        }
+    
+    def hire_me(self):
+        return "Готов к сложным задачам и новым вызовам!"
+        
+me = SeniorDeveloper()
