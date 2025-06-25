@@ -1,6 +1,6 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=ffffff&background=000000&center=true&width=1000&lines=%24+echo+%22%D0%9F%D0%A0%D0%98%D0%92%D0%95%D0%A2%2C+%D0%AF+%D0%95%D0%93%D0%9E%D0%A0%D0%9E%D0%92+%D0%9E%D0%9B%D0%95%D0%93%22;%24+python3+--version;%24+print(%22Backend+Dev%22);%24+sys.stdout.write(%22%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%0A%22);" alt="Terminal animation" />
+<div align="center" style="padding: 2rem 0; background-color: #000000;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=ffffff&background=00000000&center=true&width=1000&lines=%24+echo+%22Hello%2C+I'm+EGOROV+OLEG%22;%24+python3+--version;%24+print(%22Backend+Developer%22);%24+sys.stdout.write(%22Aspiring+Python+Specialist%22);" alt="Terminal animation" />
 </div>
 
 ## ABOUT ME
@@ -8,19 +8,16 @@
 
 Hello! I'm an aspiring Python developer passionate about growing my skills. While I'm just starting out, I've already:
 
-🐍  Gained solid foundation in Python
-
-📚  Learning algorithms and data structures
-
+```text
+🚀  Aspiring Python Developer with passion for coding
+📚  Currently learning algorithms and data structures
 🛠️  Exploring different domains:
-
-   - Web development (Django/Flask)
-   - Data parsing
-   - Task automation
-
-🔗  Have several learning projects on GitHub
-
-🌐  Basic knowledge of JavaScript/HTML/CSS
+   • Web development (Django/Flask)
+   • Data parsing and analysis
+   • Process automation
+🔗  Developed several learning projects on GitHub
+🌐  Basic knowledge of frontend (JS/HTML/CSS)
+```
 
 ## WORK EXPERIENCE
 
