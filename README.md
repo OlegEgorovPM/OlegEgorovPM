@@ -2,10 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38D252&center=true&width=435&lines=Привет+👋,+Я+[Ваше+Имя];Senior+FullStack+Developer;Open+to+Work+🚀" alt="Приветствие" />
 </div>
 
----
 
 ### 🔥 Мои ключевые компетенции
-```python
 class SeniorDeveloper:
     def __init__(self):
         self.name = "[Ваше Имя]"
@@ -53,11 +51,10 @@ text
 
 </div>
 
----
 
 ### 🛠️ Мой технологический стек
 
-```diff
+
 + Основные навыки:
 ! Python • TypeScript • React • Node.js • AWS
 ! Django • FastAPI • Docker • PostgreSQL • Redis
@@ -97,4 +94,4 @@ https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&sect
 
 https://komarev.com/ghpvc/?username=%D0%92%D0%90%D0%A8_USERNAME&label=Profile+Views&color=blueviolet&style=flat
 
-</div> ```
+</div> 
