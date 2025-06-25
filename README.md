@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38D252&center=true&width=435&lines=Привет+👋,+Я+[Ваше+Имя];Senior+FullStack+Developer;Open+to+Work+🚀" alt="Приветствие" />
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Привет,%20Я%20[Ваше%20Имя]&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Senior%20FullStack%20Developer&descSize=24&descAlignY=65)
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38D252&center=true&vCenter=true&width=500&lines=Open+to+Work+%F0%9F%8E%89;10%2B+лет+опыта;Решаю+сложные+задачи;Готов+к+вызовам!)](https://git.io/typing-svg)
+
 </div>
 
 
@@ -42,14 +46,8 @@ Cloud Manager	Управление AWS ресурсами	TypeScript, AWS SDK, N
 Смотри мне нужно более красивая страница, сделай разные эфекты и тому прочее, так чтобы работадатель увидев эту страницу запомнил ее, и все что нужно писать в readmi.md напиши в поле для копирования чтобы я мог просто взять из тебя текст и перекинуть его к себе
 Вот мощный, визуально эффектный шаблон для вашего GitHub профиля с анимациями, интерактивными элементами и профессиональным дизайном. Просто скопируйте весь текст ниже и вставьте в ваш README.md:
 
-text
-<div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Привет,%20Я%20[Ваше%20Имя]&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Senior%20FullStack%20Developer&descSize=24&descAlignY=65)
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38D252&center=true&vCenter=true&width=500&lines=Open+to+Work+%F0%9F%8E%89;10%2B+лет+опыта;Решаю+сложные+задачи;Готов+к+вызовам!)](https://git.io/typing-svg)
 
-</div>
+
 
 
 ### 🛠️ Мой технологический стек
