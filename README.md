@@ -2,7 +2,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Привет,%20я%20Егоров%20Олег&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Senior%20FullStack%20Developer&descSize=24&descAlignY=65)
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38D252&center=true&vCenter=true&width=500&lines=Открыт+для+работы+%F0%9F%8E%89+Быстро+обучаюсь!;Готов+к+вызовам!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38D252&center=true&vCenter=true&width=600&lines=Открыт+для+работы+%F0%9F%8E%89+Быстро+обучаюсь!;Готов+к+вызовам!)](https://git.io/typing-svg)
 
 </div>
 
