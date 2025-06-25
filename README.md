@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 ### 🔥 Мои ключевые компетенции
-```python
+
 class SeniorDeveloper:
     def __init__(self):
         self.name = "[Ваше Имя]"
@@ -19,10 +19,6 @@ class SeniorDeveloper:
         return "Готов к сложным задачам и новым вызовам!"
         
 me = SeniorDeveloper()
-```
-
----
-
 ### ⚡ Технологический стек
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
