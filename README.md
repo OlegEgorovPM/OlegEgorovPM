@@ -1,11 +1,6 @@
-Вот полный текст для вашего README.md, который вы можете скопировать и вставить:
-
-```
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38D252&center=true&width=435&lines=Привет+👋,+Я+[Ваше+Имя];Senior+FullStack+Developer;Open+to+Work+🚀" alt="Приветствие" />
-</div>
-
----
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 ### 🔥 Мои ключевые компетенции
 ```python
