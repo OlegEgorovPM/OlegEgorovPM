@@ -20,16 +20,12 @@ Hello! I'm an aspiring Python developer passionate about growing my skills. Whil
 ```
 
 ## WORK EXPERIENCE
-
 I have experience in freelancing.
-
 I spent most of my time as a developer working with:
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-
 #### Technologies
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -38,7 +34,7 @@ I spent most of my time as a developer working with:
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
-<h3>MY FRIEND</h3>
+## MY FRIEND
 has a message for you...
 
 <br>
