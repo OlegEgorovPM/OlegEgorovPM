@@ -1,44 +1,46 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hiyouga&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
-<img align="right" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" />
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
-# Yaowei Zheng
+### Languages
 
-### *Ph.D. Student*
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
-Beihang University
+### Technologies
 
-37 Xueyuan Rd., Haidian Dist.
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-Beijing, China, 100191
+### Full Stack Projects
 
-## Education
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 
-- 2022.09-*Present* School of Computer Science and Engineering, Beihang University Ph.D.
-- 2017.09-2021.06 Shen Yuan Honors College, Beihang University B.Eng.
+### Cybersecurity Projects
 
-## Research Interests
+[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
+[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
+[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
+[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
+[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
+[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
 
-- Natural Language Processing
-- Large Language Models
-
-## Skills
-
-- Natural Language: Chinese (Native); English (CET-6); Japanese (JLPT-N2)
-- Programming Language: **Python**; C++; Java; JavaScript; PHP; Go; Verilog HDL; MATLAB
-- Typesetting Language: **LaTeX**; Markdown
-- Programming Framework: **PyTorch**; TensorFlow
-
-## Publications ([Google Scholar](https://scholar.google.com/citations?user=QQtacXUAAAAJ&hl=en), [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zheng:Yaowei), [Semantic Scholar](https://www.semanticscholar.org/author/113048894), [ORCID](https://orcid.org/0000-0001-6028-8032))
-
-1. **Yaowei Zheng**, Richong Zhang, Junhao Zhang, Yanhan Ye, Zheyan Luo and Yongqiang Ma: LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models. **ACL2024**. [[arXiv]](https://arxiv.org/abs/2403.13372)
-1. Junfan Chen, Richong Zhang, **Yaowei Zheng**, Qianben Chen, Chunming Hu and Yongyi Mao: DualCL: Principled Supervised Contrastive Learning as Mutual Information Maximization for Text Classification. **WWW2024**. [[DOI]](https://doi.org/10.1145/3589334.3645668)[[arXiv]](https://arxiv.org/abs/2201.08702)[[Code]](https://github.com/hiyouga/dual-contrastive-learning)
-1. Richong Zhang, Qianben Chen, **Yaowei Zheng**, Samuel Mensah and Yongyi Mao: Aspect-level Sentiment Analysis via a Syntax-based Neural Network. IEEE/ACM Transactions on Audio, Speech, and Language Processing. [[DOI]](https://doi.org/10.1109/TASLP.2022.3190731)
-1. Xiaohui Guo, Richong Zhang, **Yaowei Zheng** and Yongyi Mao: Robust Regularization with Adversarial Labelling of Perturbed Samples. **IJCAI2021**. [[DOI]](https://doi.org/10.24963/ijcai.2021/343)[[arXiv]](https://arxiv.org/abs/2105.13745)
-1. **Yaowei Zheng**, Richong Zhang and Yongyi Mao: Regularizing Neural Networks via Adversarial Model Perturbation. **CVPR2021**. [[DOI]](https://doi.org/10.1109/CVPR46437.2021.00806)[[arXiv]](https://arxiv.org/abs/2010.04925)[[Code]](https://github.com/hiyouga/amp-regularizer)[[Poster]](https://github.com/hiyouga/amp-poster-slides-latex)[[Video]](https://youtu.be/yz1ZDA_h_hI)
-1. **Yaowei Zheng**, Richong Zhang, Suyuchen Wang, Samuel Mensah and Yongyi Mao: Anchored Model Transfer and Soft Instance Transfer for Cross-Task Cross-Domain Learning: A Study Through Aspect-Level Sentiment Classification. **WWW2020**. [[DOI]](https://doi.org/10.1145/3366423.3380034)
-1. **Yaowei Zheng**, Richong Zhang, Samuel Mensah and Yongyi Mao: Replicate, Walk, and Stop on Syntax: an Effective Neural Network Model for Aspect-Level Sentiment Classification. **AAAI2020**. [[DOI]](https://doi.org/10.1609/aaai.v34i05.6517)[[Code]](https://github.com/hiyouga/repwalk)
-
-## Academic Service
-
-- Conference Reviewer: AAAI, EMNLP, NAACL, COLING
-- Journal Reviewer: Neural Computation
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
