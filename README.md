@@ -33,13 +33,3 @@ I spent most of my time as a developer working with:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-
-## MY FRIEND
-has a message for you...
-
-<br>
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
-</div>
-<br>
